@@ -33,6 +33,7 @@ Reverses the encryption by shifting downward by key.
 🔹 File Processing Method
 =
 This method:
+
 ✅ Opens the inputFile for reading.
 
 ✅ Opens the outputFile for writing.
