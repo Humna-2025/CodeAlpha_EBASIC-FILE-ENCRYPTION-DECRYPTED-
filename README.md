@@ -5,6 +5,7 @@
 This program reads a text file, encrypts or decrypts its content using a simple Caesar cipher (shifting each character by a key value), and writes the result to another file.
 
 It supports two operations:
+
 ✅ Encrypt a file
 
 ✅ Decrypt a file
